@@ -7,6 +7,8 @@
     <title>Insert title here</title>
 </head>
 <body>
+
+s
 <form action="addUser">
     ID :<br />
     <input type="text" name="t1"><br />
